@@ -4,3 +4,4 @@ export const title = (text='') => text
 	.split(' ')
 	.map( s => `${s[0].toUpperCase()}${s.slice(1)}`)
 	.join(' ');
+
