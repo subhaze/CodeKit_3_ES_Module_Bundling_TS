@@ -15,6 +15,15 @@
 		"oAP": "\/index.html",
 		"oF": 0
 		},
+	"\/js\/bundle.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 0,
+		"oAP": "\/js\/bundle.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/js\/bundle.ts": {
 		"cDF": 0,
 		"ft": 128,
